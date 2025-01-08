@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/CMakeFiles/crng-populate"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/CMakeFiles/crng-populate.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/CMakeFiles/crng-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/src/crng-populate-stamp/crng-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"crng-populate"
+		],
+		"name" : "crng-populate"
+	}
+}

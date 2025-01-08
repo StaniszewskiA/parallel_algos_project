@@ -1,0 +1,13 @@
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/parallel_algos_project.dir
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/edit_cache.dir
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/list_install_components.dir
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/install.dir
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/install/local.dir
+C:/Users/PanSt/parallel_algos_project/build/CMakeFiles/install/strip.dir
+C:/Users/PanSt/parallel_algos_project/build/_deps/crng-build/CMakeFiles/edit_cache.dir
+C:/Users/PanSt/parallel_algos_project/build/_deps/crng-build/CMakeFiles/rebuild_cache.dir
+C:/Users/PanSt/parallel_algos_project/build/_deps/crng-build/CMakeFiles/list_install_components.dir
+C:/Users/PanSt/parallel_algos_project/build/_deps/crng-build/CMakeFiles/install.dir
+C:/Users/PanSt/parallel_algos_project/build/_deps/crng-build/CMakeFiles/install/local.dir
+C:/Users/PanSt/parallel_algos_project/build/_deps/crng-build/CMakeFiles/install/strip.dir
