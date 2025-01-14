@@ -7,7 +7,7 @@
 
 int main() {
     const int dataSize = 1'000'000;
-    const int maxThreads = 8;
+    const int maxThreads = 64;
     std::vector<int> numbers(dataSize);
 
     auto startSeq = std::chrono::high_resolution_clock::now();

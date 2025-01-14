@@ -17,6 +17,7 @@ FetchContent_MakeAvailable(crng)
 
 add_executable(parallel_algos_project
     src/main.cpp
+    src/generator.cpp  
 )
 
 target_link_libraries(parallel_algos_project PRIVATE crng)
