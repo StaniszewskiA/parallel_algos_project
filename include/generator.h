@@ -3,7 +3,7 @@
 
 #include <vector>
 
-void generateSequential(int size, std::vector<int>& numbers);
-void generateParallel(int size, std::vector<int>& numbers);
+void generateParallelStd(int size, std::vector<int>& numbers);
+void generateParallelPhilox(int size, std::vector<int>& numbers);
 
 #endif // GENERATOR_H

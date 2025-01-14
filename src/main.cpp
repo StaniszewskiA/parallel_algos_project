@@ -11,7 +11,7 @@ int main() {
     std::vector<int> numbers(dataSize);
 
     auto startSeq = std::chrono::high_resolution_clock::now();
-    generateSequential(dataSize, numbers);
+    generateParallelStd(dataSize, numbers);
     auto endSeq = std::chrono::high_resolution_clock::now();
     double timeSeq = std::chrono::duration<double>(endSeq - startSeq).count();
     std::cout << "Czas sekwencyjny: " << timeSeq << " s\n";
@@ -20,7 +20,7 @@ int main() {
         omp_set_num_threads(threadCount);
 
         auto startPar = std::chrono::high_resolution_clock::now();
-        generateParallel(dataSize, numbers);
+        generateParallelPhilox(dataSize, numbers);
         auto endPar = std::chrono::high_resolution_clock::now();
         double timePar = std::chrono::duration<double>(endPar - startPar).count();
 

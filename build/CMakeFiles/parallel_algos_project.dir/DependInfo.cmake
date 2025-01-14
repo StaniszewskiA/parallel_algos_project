@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/PanSt/parallel_algos_project/src/generator.cpp" "CMakeFiles/parallel_algos_project.dir/src/generator.cpp.obj" "gcc" "CMakeFiles/parallel_algos_project.dir/src/generator.cpp.obj.d"
   "C:/Users/PanSt/parallel_algos_project/src/main.cpp" "CMakeFiles/parallel_algos_project.dir/src/main.cpp.obj" "gcc" "CMakeFiles/parallel_algos_project.dir/src/main.cpp.obj.d"
   )
 

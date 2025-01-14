@@ -3,7 +3,7 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/tmp/crng-populate-gitclone.cmake
+command=E:/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/PanSt/parallel_algos_project/build/_deps/crng-subbuild/crng-populate-prefix/tmp/crng-populate-gitclone.cmake
 source_dir=C:/Users/PanSt/parallel_algos_project/build/_deps/crng-src
 work_dir=C:/Users/PanSt/parallel_algos_project/build/_deps
 repository=https://github.com/msu-sparta/OpenRAND.git

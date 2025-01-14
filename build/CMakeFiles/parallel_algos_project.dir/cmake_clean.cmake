@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/parallel_algos_project.dir/src/generator.cpp.obj"
+  "CMakeFiles/parallel_algos_project.dir/src/generator.cpp.obj.d"
   "CMakeFiles/parallel_algos_project.dir/src/main.cpp.obj"
   "CMakeFiles/parallel_algos_project.dir/src/main.cpp.obj.d"
   "libparallel_algos_project.dll.a"
